@@ -1,0 +1,6 @@
+- name: 'Paris'
+  slug: 'paris'
+  driver_username: 'ssaunier'
+- name: 'Barcelona'
+  slug: 'barcelona'
+  driver_username: 'Papillard'
